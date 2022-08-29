@@ -1,0 +1,59 @@
+.presentation,
+.tickets,
+.frecuent-questios,
+.data-connest,
+.maps,
+.ponentes,
+.proyectos{
+  padding: 30px 15px;
+  text-align: center;
+}
+.presentation p{
+  padding-bottom: 1rem;
+}
+
+.presentation li{
+  border: 1px solid black;
+  margin: 10px 0;
+  padding: 10px 25px;
+  border-radius: 15px;
+}
+
+.proyectos p{
+  margin: 15px;
+}
+.proyectos-card{
+  padding: 10px 0;
+}
+.btn{
+  border: 1px solid red;
+  background-color: red;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 15px;
+}
+.btn a{
+  color: white;
+}
+
+.proyectos-subcard{
+  border: 1px solid green;
+  border-radius: 20px;
+  padding: 1rem;
+  margin: 0 40px;
+}
+
+.proyectos-subcard li{
+  margin: 10px 0;
+}
+
+.maps-frame{
+}
+
+.ticket-cont{
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 1rem 5rem;
+  
+}

@@ -12,7 +12,7 @@
 
   <!-- links css's -->
   <link rel="stylesheet" href="../assets/css/nav.css">
-
+  <link rel="stylesheet" href="../assets/css/index.css">
 
 </head>
 

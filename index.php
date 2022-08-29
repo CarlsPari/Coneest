@@ -8,21 +8,99 @@
 </section>
 
 <section class="presentation">
-  <h2>Congreso Nacional de Estadistica 2022</h2>
+
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam quis libero dolorem? Eveniet omnis necessitatibus consequuntur odio eum ullam saepe deserunt impedit labore, magni a, nulla expedita dolorum inventore porro?</p>
+
+  <ul>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, ipsum. Aspernatur, vel nemo?</li>
+  </ul>
 </section>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<section>
+  <div>
+    <h2>Concurso de Proyectos</h2>
+    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt, molestias recusandae perspiciatis deserunt, vitae ea pariatur, fugit nisi mollitia minus voluptatibus sint quibusdam numquam cupiditate. Possimus pariatur praesentium quod modi!</div>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque labore temporibus autem dolorum, molestiae repellendus veritatis distinctio nulla sequi ipsa aliquid dolor.
+    </p>
+    <p><a href="">Ver Bases</a></p>
+  </div>
+  <div>
+    <h3>Como Participar</h3>
+    <ul>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem ipsum dolor sit amet.</li>
+    </ul>
+  </div>
+</section>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- section ponentes -->
 
 <section class="ponentes" id="ponentes">
   <div>
-    <h2>Pontentes 2022</h2>
+    <h2>Ponentes CONNEST 2022</h2>
   </div>
 </section>
+
+<section>
+  <div>
+    <h2>Lugar Mapa del evento</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.629248736067!2d-70.02024218255616!3d-15.823491499999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915d69b07c6f13f3%3A0x173c966c63aeb006!2sFacultad%20de%20Ingenier%C3%ADa%20Estad%C3%ADstica%20e%20Inform%C3%A1tica(Pab.%20Antiguo)!5e0!3m2!1ses-419!2spe!4v1661782278682!5m2!1ses-419!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</section>
+
+
+<section>
+  <div>
+    <h2>Tickest CONNEST</h2>
+  </div>
+  <div>
+    <h3>Pase Normal</h3>
+    <ul>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+    </ul>
+    <a href="">Obtener</a>
+  </div>
+  <div>
+    <h3>Pase Premium</h3>
+    <ul>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+      <li>Lorem ipsum dolor sit.</li>
+    </ul>
+    <a href="">Obtener</a>
+  </div>
+</section>
+
+
+<section>
+<div><h2>CONNEST en NUMEROS</h2></div>
+</section>
+
+<section>
+<div>
+<h2>Preguntas Frecuentes</h2>
+</div>
+</section>
+
 
 
 <?php include("templates/footer.php") ?>
